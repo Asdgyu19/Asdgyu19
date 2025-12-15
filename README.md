@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>Hi there! 👋 I'm Aryo, an Informatics student with a passion for software development, IT infrastructure, and creative projects. Currently, I’m the Head of IT Developer at SRE UNAIR, leading the development of our community website and managing team collaboration with GitHub Projects.<br><br>📌 What I'm Working On:<br><br>Developing SRE UNAIR's official website 🏛<br>Building a personal finance management app with Flutter 📊<br>Exploring DevOps & system reliability engineering 🚀
 
 
